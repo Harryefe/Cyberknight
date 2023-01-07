@@ -18,9 +18,7 @@
           <p
             class="fs-lg d-md-none d-xl-block pb-2 pb-md-0 mb-4 mb-md-5 fw-bold-"
           >
-            Bring teams together, redesign workspaces, engage new audiences,
-            and delight your friends — all on the CyberKnight platform you know and
-            love.
+          On the renowned CyberKnight platform, you can bring colleagues together, revamp workspaces, attract new audiences, and thrill your friends.
           </p>
           <form class="d-none d-sm-flex mb-5 w-60">
             <div class="input-group d-block d-sm-flex input-group-lg me-3">
