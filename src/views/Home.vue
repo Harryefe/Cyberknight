@@ -13,7 +13,7 @@
           class="col-xl-6 col-md-6 pt-lg-5 text-center text-md-start mb-4 mb-md-0"
         >
           <h1 class="display-3 pb-2 pb-sm-3 text-white">
-            Connect easily with<br />friends and Collegues
+            Connect easily with<br />Colleagues and Team Members
           </h1>
           <p
             class="fs-lg d-md-none d-xl-block pb-2 pb-md-0 mb-4 mb-md-5 fw-bold-"
