@@ -74,7 +74,7 @@
               </div>
             </div>
             <div class="text-light">
-              <strong>600k+</strong> users already with us
+              <strong>600</strong> users already with us
             </div>
           </div>
         </div>
