@@ -1,13 +1,13 @@
 import { initializeApp } from 'firebase/app';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDELGCN4OdR2Dnbh5lL-H9huTciOKZAsqE",
-    authDomain: "cyberknight-1035b.firebaseapp.com",
-    projectId: "cyberknight-1035b",
-    storageBucket: "cyberknight-1035b.appspot.com",
-    messagingSenderId: "1085317798196",
-    appId: "1:1085317798196:web:65da3db88b2831c686ad61",
-    measurementId: "G-1SFE1PX0DC"
+  apiKey: "AIzaSyAL3r-3wYSin5DBwDmrJOPeD93oM_LgGgI",
+  authDomain: "cyberknight-messager.firebaseapp.com",
+  projectId: "cyberknight-messager",
+  storageBucket: "cyberknight-messager.appspot.com",
+  messagingSenderId: "24067223028",
+  appId: "1:24067223028:web:2533b28074b4f2324bdda1",
+  measurementId: "G-RMEC5YMM3X"
   };
 
 // Initialize Firebase
